@@ -6,6 +6,12 @@
 
 # Bersihkan Layar
 clear
+echo $pur"==================="$cy" ==================="
+echo $i"█"$pu"  AUTHOR  :  RianWk           "$i"        █"
+echo $i"█"$pu"  WhatsApp:  08953635*****"$i"            █"
+echo $i"█"$pu"  GMAIL   :  riandiningrat212@gmail.com"$i"█"
+echo $i"█"$pu"  YOUTUBE :  Rian Arisadi"$i"             █"
+echo $pur"==================="$cy" ==================="
 
 # MENU TOOLS INSTALLER
 
